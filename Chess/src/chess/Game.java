@@ -10,7 +10,6 @@ import player.ai.MoveSelector;
 // TODO:
 // Clean up moveNotation for each kind of move. (Subclass Move for more move types?)
 // Clean up code and improve efficiency where possible.
-// Begin work on board evaluator, minimax algorithm.
 
 /**
  * 
